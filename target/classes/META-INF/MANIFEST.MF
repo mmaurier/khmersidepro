@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: khmersidepro
+Implementation-Version: 0.0.1
+Built-By: mmaurier
+Implementation-Vendor-Id: kh.com.khmerside
+Build-Jdk: 1.8.0_171
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/khmersidepro
+Created-By: Maven Integration for Eclipse
+
